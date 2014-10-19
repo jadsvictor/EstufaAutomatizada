@@ -10,8 +10,12 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <!--<form id="form1" action="grafico.php" method="post">
+            <input type="submit" id="enviar" value="Enviar"/>
+        </form>-->
         <?php
-        // put your code here
+            echo "<meta HTTP-EQUIV='Refresh' CONTENT='0;URL=/EstufaAutomatizada/visao/index.html'>";
         ?>
+            
     </body>
 </html>
